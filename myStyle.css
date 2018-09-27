@@ -24,5 +24,6 @@ footer {
     color: rgba(0, 0, 0, .5);
     text-align: center;
     text-transform: none;
+    text-decoration: underline;
     letter-spacing: .01em;
 }
